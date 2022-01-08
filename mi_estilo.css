@@ -1,0 +1,16 @@
+body,
+h1 {
+    font-family: sans-serif;
+    color: white;
+    font-size: x-large;
+}
+
+body {
+    background-image: url("https://raw.githubusercontent.com/ambarja/Geobackground/main/grass_elevation.png");
+}
+
+.subtitle {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
